@@ -1,0 +1,7 @@
+[Sat Sep 19 03:49:27 2026] PHP 8.3.6 Development Server (http://localhost:8080) started
+[Sat Sep 19 03:49:29 2026] [::1]:33260 Accepted
+[Sat Sep 19 03:49:29 2026] [::1]:33260 [200]: HEAD /
+[Sat Sep 19 03:49:29 2026] [::1]:33260 Closing
+[Sat Sep 19 03:50:26 2026] [::1]:40190 Accepted
+[Sat Sep 19 03:50:27 2026] [::1]:40190 [200]: GET /login.php
+[Sat Sep 19 03:50:27 2026] [::1]:40190 Closing

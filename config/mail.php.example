@@ -1,0 +1,12 @@
+<?php
+// SMTP Email Configuration Template for College Club Management System
+// Copy this file to mail.php and update with your actual SMTP credentials.
+
+if (!defined('SMTP_HOST')) define('SMTP_HOST', 'smtp.gmail.com');
+if (!defined('SMTP_PORT')) define('SMTP_PORT', 465);
+if (!defined('SMTP_USER')) define('SMTP_USER', 'your_email@gmail.com');
+if (!defined('SMTP_PASS')) define('SMTP_PASS', 'your_app_password');
+if (!defined('SMTP_FROM_EMAIL')) define('SMTP_FROM_EMAIL', 'your_email@gmail.com');
+if (!defined('SMTP_FROM_NAME')) define('SMTP_FROM_NAME', 'College Club Management System');
+if (!defined('SMTP_SECURE')) define('SMTP_SECURE', 'ssl');
+?>

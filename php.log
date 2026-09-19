@@ -1,0 +1,112 @@
+[Fri Sep 11 16:10:59 2026] PHP 8.3.6 Development Server (http://localhost:8000) started
+[Fri Sep 11 16:11:00 2026] [::1]:53694 Accepted
+[Fri Sep 11 16:11:00 2026] [::1]:53694 [200]: GET /login.php
+[Fri Sep 11 16:11:00 2026] [::1]:53694 Closing
+[Fri Sep 11 16:11:36 2026] [::1]:34954 Accepted
+[Fri Sep 11 16:11:36 2026] [::1]:34954 [200]: GET /login.php
+[Fri Sep 11 16:11:36 2026] [::1]:34954 Closing
+[Fri Sep 11 16:11:36 2026] [::1]:34956 Accepted
+[Fri Sep 11 16:11:36 2026] [::1]:34956 [200]: GET /assets/css/style.css
+[Fri Sep 11 16:11:36 2026] [::1]:34956 Closing
+[Fri Sep 11 16:11:36 2026] [::1]:34958 Accepted
+[Fri Sep 11 16:11:36 2026] [::1]:34958 [200]: GET /assets/js/script.js
+[Fri Sep 11 16:11:36 2026] [::1]:34958 Closing
+[Fri Sep 11 16:12:25 2026] [::1]:40512 Accepted
+[Fri Sep 11 16:12:25 2026] [::1]:40512 [200]: GET /login.php
+[Fri Sep 11 16:12:25 2026] [::1]:40512 Closing
+[Fri Sep 11 16:12:25 2026] [::1]:40520 Accepted
+[Fri Sep 11 16:12:25 2026] [::1]:40530 Accepted
+[Fri Sep 11 16:12:25 2026] [::1]:40520 [200]: GET /assets/css/style.css
+[Fri Sep 11 16:12:25 2026] [::1]:40530 [200]: GET /assets/js/script.js
+[Fri Sep 11 16:12:25 2026] [::1]:40520 Closing
+[Fri Sep 11 16:12:25 2026] [::1]:40530 Closing
+[Fri Sep 11 16:12:25 2026] [::1]:40532 Accepted
+[Fri Sep 11 16:12:25 2026] [::1]:40532 [200]: POST /login.php
+[Fri Sep 11 16:12:25 2026] [::1]:40532 Closing
+[Fri Sep 11 16:12:25 2026] [::1]:40540 Accepted
+[Fri Sep 11 16:12:25 2026] [::1]:40552 Accepted
+[Fri Sep 11 16:12:25 2026] [::1]:40540 [200]: GET /assets/css/style.css
+[Fri Sep 11 16:12:25 2026] [::1]:40552 [200]: GET /assets/js/script.js
+[Fri Sep 11 16:12:25 2026] [::1]:40540 Closing
+[Fri Sep 11 16:12:25 2026] [::1]:40552 Closing
+[Fri Sep 11 16:12:26 2026] [::1]:40556 Accepted
+[Fri Sep 11 16:12:26 2026] [::1]:40556 [302]: GET /admin/clubs.php
+[Fri Sep 11 16:12:26 2026] [::1]:40556 Closing
+[Fri Sep 11 16:12:26 2026] [::1]:40566 Accepted
+[Fri Sep 11 16:12:26 2026] [::1]:40566 [200]: GET /login.php
+[Fri Sep 11 16:12:26 2026] [::1]:40566 Closing
+[Fri Sep 11 16:12:26 2026] [::1]:40578 Accepted
+[Fri Sep 11 16:12:26 2026] [::1]:40588 Accepted
+[Fri Sep 11 16:12:26 2026] [::1]:40578 [200]: GET /assets/css/style.css
+[Fri Sep 11 16:12:26 2026] [::1]:40578 Closing
+[Fri Sep 11 16:12:26 2026] [::1]:40588 [200]: GET /assets/js/script.js
+[Fri Sep 11 16:12:26 2026] [::1]:40588 Closing
+[Fri Sep 11 16:12:26 2026] [::1]:40594 Accepted
+[Fri Sep 11 16:12:26 2026] [::1]:40594 [302]: GET /logout.php
+[Fri Sep 11 16:12:26 2026] [::1]:40594 Closing
+[Fri Sep 11 16:12:26 2026] [::1]:40598 Accepted
+[Fri Sep 11 16:12:26 2026] [::1]:40598 [200]: GET /index.php
+[Fri Sep 11 16:12:26 2026] [::1]:40598 Closing
+[Fri Sep 11 16:12:26 2026] [::1]:40602 Accepted
+[Fri Sep 11 16:12:26 2026] [::1]:40602 [200]: GET /assets/css/style.css
+[Fri Sep 11 16:12:26 2026] [::1]:40602 Closing
+[Fri Sep 11 16:12:26 2026] [::1]:40608 Accepted
+[Fri Sep 11 16:12:26 2026] [::1]:40608 [200]: GET /login.php
+[Fri Sep 11 16:12:26 2026] [::1]:40608 Closing
+[Fri Sep 11 16:12:26 2026] [::1]:40610 Accepted
+[Fri Sep 11 16:12:26 2026] [::1]:40618 Accepted
+[Fri Sep 11 16:12:26 2026] [::1]:40610 [200]: GET /assets/css/style.css
+[Fri Sep 11 16:12:26 2026] [::1]:40610 Closing
+[Fri Sep 11 16:12:26 2026] [::1]:40618 [200]: GET /assets/js/script.js
+[Fri Sep 11 16:12:26 2026] [::1]:40618 Closing
+[Fri Sep 11 16:12:26 2026] [::1]:40630 Accepted
+[Fri Sep 11 16:12:26 2026] [::1]:40630 [200]: POST /login.php
+[Fri Sep 11 16:12:26 2026] [::1]:40630 Closing
+[Fri Sep 11 16:12:26 2026] [::1]:40640 Accepted
+[Fri Sep 11 16:12:26 2026] [::1]:40648 Accepted
+[Fri Sep 11 16:12:26 2026] [::1]:40640 [200]: GET /assets/css/style.css
+[Fri Sep 11 16:12:26 2026] [::1]:40648 [200]: GET /assets/js/script.js
+[Fri Sep 11 16:12:26 2026] [::1]:40640 Closing
+[Fri Sep 11 16:12:26 2026] [::1]:40648 Closing
+[Fri Sep 11 16:12:26 2026] [::1]:40654 Accepted
+[Fri Sep 11 16:12:26 2026] [::1]:40654 [302]: GET /student/clubs.php
+[Fri Sep 11 16:12:26 2026] [::1]:40654 Closing
+[Fri Sep 11 16:12:26 2026] [::1]:40664 Accepted
+[Fri Sep 11 16:12:26 2026] [::1]:40664 [200]: GET /login.php
+[Fri Sep 11 16:12:26 2026] [::1]:40664 Closing
+[Fri Sep 11 16:12:27 2026] [::1]:40676 Accepted
+[Fri Sep 11 16:12:27 2026] [::1]:40686 Accepted
+[Fri Sep 11 16:12:27 2026] [::1]:40676 [200]: GET /assets/css/style.css
+[Fri Sep 11 16:12:27 2026] [::1]:40676 Closing
+[Fri Sep 11 16:12:27 2026] [::1]:40686 [200]: GET /assets/js/script.js
+[Fri Sep 11 16:12:27 2026] [::1]:40686 Closing
+[Fri Sep 11 17:22:41 2026] [::1]:38508 Accepted
+[Fri Sep 11 17:22:41 2026] [::1]:38508 [200]: GET /login.php
+[Fri Sep 11 17:22:41 2026] [::1]:38508 Closing
+[Fri Sep 11 17:22:41 2026] [::1]:38522 Accepted
+[Fri Sep 11 17:22:41 2026] [::1]:38532 Accepted
+[Fri Sep 11 17:22:41 2026] [::1]:38522 [200]: GET /assets/css/style.css
+[Fri Sep 11 17:22:41 2026] [::1]:38532 [200]: GET /assets/js/script.js
+[Fri Sep 11 17:22:41 2026] [::1]:38522 Closing
+[Fri Sep 11 17:22:41 2026] [::1]:38532 Closing
+[Fri Sep 11 17:22:41 2026] [::1]:38548 Accepted
+[Fri Sep 11 17:22:41 2026] [::1]:38548 [200]: POST /login.php
+[Fri Sep 11 17:22:41 2026] [::1]:38548 Closing
+[Fri Sep 11 17:22:41 2026] [::1]:38552 Accepted
+[Fri Sep 11 17:22:41 2026] [::1]:38562 Accepted
+[Fri Sep 11 17:22:41 2026] [::1]:38552 [200]: GET /assets/css/style.css
+[Fri Sep 11 17:22:41 2026] [::1]:38552 Closing
+[Fri Sep 11 17:22:41 2026] [::1]:38562 [200]: GET /assets/js/script.js
+[Fri Sep 11 17:22:41 2026] [::1]:38562 Closing
+[Fri Sep 11 17:22:42 2026] [::1]:44158 Accepted
+[Fri Sep 11 17:22:42 2026] [::1]:44158 [302]: GET /club-head/announcements.php
+[Fri Sep 11 17:22:42 2026] [::1]:44158 Closing
+[Fri Sep 11 17:22:42 2026] [::1]:44172 Accepted
+[Fri Sep 11 17:22:42 2026] [::1]:44172 [200]: GET /login.php
+[Fri Sep 11 17:22:42 2026] [::1]:44172 Closing
+[Fri Sep 11 17:22:42 2026] [::1]:44186 Accepted
+[Fri Sep 11 17:22:42 2026] [::1]:44200 Accepted
+[Fri Sep 11 17:22:42 2026] [::1]:44186 [200]: GET /assets/css/style.css
+[Fri Sep 11 17:22:42 2026] [::1]:44200 [200]: GET /assets/js/script.js
+[Fri Sep 11 17:22:42 2026] [::1]:44186 Closing
+[Fri Sep 11 17:22:42 2026] [::1]:44200 Closing
